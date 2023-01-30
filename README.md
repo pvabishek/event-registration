@@ -57,12 +57,11 @@ box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
 
 
 ## OUTPUT:
+![1tuo](https://user-images.githubusercontent.com/119405626/215496869-d9461581-ae82-4990-bad5-ef610e22b9de.png)
+![2tou](https://user-images.githubusercontent.com/119405626/215496902-dfb838d1-b266-4169-ad80-706e46dd1fed.png)
+![3tou](https://user-images.githubusercontent.com/119405626/215496925-ba68df79-6f43-4361-9bfb-dde466937139.png)
 
-![OUTPUT](./1tuo.png)
 
-![OUTPUT](./2tou.png)
-
-![OUTPUT](./3tou.png)
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
